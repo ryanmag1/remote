@@ -11,5 +11,3 @@
 |Can you go to the slash temp directory?|cd /tmp
 |Can you go to the slash temp slash log directory?|cd /tmp/log
 |What does the .. argument to cd do?  Explain it in the Readme.md.|Bring you one directory down|
-
-
